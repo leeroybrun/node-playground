@@ -1,0 +1,1 @@
+{"ts":1366146343564,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"var server = require(\"./server\");\nvar router = require(\"./router\");\nvar requestHandlers = require(\"./requestHandlers\");\n\nvar handle = {};\nhandle[\"/\"] = requestHandlers.start;\n\nserver.start(router.route, handle);\n"]],"start1":0,"start2":0,"length1":0,"length2":212}]],"length":212}
