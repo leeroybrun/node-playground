@@ -1,3 +1,4 @@
-=== Node.js playground ===
+Node.js playground
+==================
 
 Playground for using Node.js and Git.
