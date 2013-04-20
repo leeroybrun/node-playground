@@ -1,2 +1,5 @@
 .c9revisions
 .gitignore
+node_modules/
+tests/
+hotChocolate/
