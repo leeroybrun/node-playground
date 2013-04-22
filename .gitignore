@@ -1,5 +1,4 @@
 .c9revisions
 .gitignore
-node_modules/
 tests/
-hotChocolate/
+expressjs/node_modules/
