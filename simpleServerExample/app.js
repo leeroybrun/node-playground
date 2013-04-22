@@ -1,1 +1,0 @@
-require('simpleServer').start(process.env.PORT);
